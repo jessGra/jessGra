@@ -5,6 +5,6 @@
 - 📕 Actualmente estoy estudiando PHP con laravel, CSS y JS
 - 🔎 Me gustaría realizar colaboraciones en proyectos web de cualquier tipo
 - 📫 Puedes encontrarme en:
-*Facebook -> https://www.facebook.com/JesGra.Dev
-*LinkedIn -> https://www.linkedin.com/in/jesgra/
+- Facebook -> https://www.facebook.com/JesGra.Dev
+- LinkedIn -> https://www.linkedin.com/in/jesgra/
 
