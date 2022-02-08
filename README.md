@@ -1,10 +1,11 @@
 - 👋 Hola, Mi nombre es Jesús Enrique Granada
 - 🌎 Estudio Ingeniería de Software en la Universidad Surcolombiana de Colombia
-- 💼 Llevo 3 años trabajando en soporte tecnico de equipos de computo
+- 💼 Actualmente soy:
+  - Desarrollador Web Fullstack con <img src="logo-laravel.png" width="80" alt="Laravel">.
+  - Desarrollador de Apps con <img src="logo-ionic.png" width="50" alt="Ionic">.
 - 👀 Me interesa el desarrollo web fullstack
-- 📕 Actualmente estoy estudiando PHP con laravel, CSS y JS
+- 📕 Siempre estoy buscando aprender cosas nuevas
 - 🔎 Me gustaría realizar colaboraciones en proyectos web de cualquier tipo
 - 📫 Puedes encontrarme en:
-- Facebook -> https://www.facebook.com/JesGra.Dev
-- LinkedIn -> https://www.linkedin.com/in/jesgra/
-
+  - <img src="logo-facebook.png" width="80" alt="Facebook"> -> https://www.facebook.com/JesGra.Dev
+  - <img src="logo-linkedin.png" width="70" alt="LinkedIn"> -> https://www.linkedin.com/in/jesgra/
