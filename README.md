@@ -1,7 +1,7 @@
 - 👋 Hola, Mi nombre es Jesús Enrique Granada
 - 🌎 Estudio Ingeniería de Software en la Universidad Surcolombiana de Colombia
 - 💼 Actualmente soy:
-  - Desarrollador Front End con <img src="logo-react.svg" width="70" alt="Laravel">.
+  - Desarrollador Front End con <img src="logo-react.png" width="70" alt="React JS"> JS.
   - Desarrollador Web Fullstack con <img src="logo-laravel.png" width="70" alt="Laravel">.
   - Desarrollador de Apps con <img src="logo-ionic.png" width="50" alt="Ionic">.
 - 👀 Me interesa el desarrollo web fullstack
